@@ -297,7 +297,7 @@ Consistent protein nomenclature is indispensable for communication, literature s
 ### F. Word usage
 
 -   **Avoid linking words and phrases**
-    -   Avoid te following linking words: for, or (as in name1 or name2), of, to, with.
+    -   Avoid the following linking words: for, or (as in name1 or name2), of, to, with.
 
        *Example*: *two-component system sensor histidine kinase **not** histidine kinase sensor of two component system*
 

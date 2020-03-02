@@ -476,4 +476,4 @@ Protein names are ideally supported by evidence from expert sources, the literat
 
         -   *protein XYZ1*
 
-Last updated: 03-APR-2018
+Last updated: 02-MAR-2020

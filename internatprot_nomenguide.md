@@ -427,7 +427,7 @@ Protein names are ideally supported by evidence from expert sources, the literat
 
     -   If a subunit has a designator, then that follows the term ‘subunit’, e.g. subunit 1, subunit A, subunit AbcD, subunit alpha. The preference for designator use is: number &gt; letter &gt; gene symbol &gt; greek letter spelled out.
 
-         *Example: F1F0 ATP synthase subunit alpha **not** F1F0 ATP synthase alpha subunit*
+         *Example: F1Fo ATP synthase subunit alpha **not** F1Fo ATP synthase alpha subunit*
 
     -   An abbreviation may be part of a protein complex name.
 
